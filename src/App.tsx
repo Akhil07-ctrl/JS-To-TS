@@ -1,6 +1,5 @@
 import React from 'react'
 import Appointments from './components/Appointments'
-// import "./index.css"
 
 
 const App: React.FC = () => {
